@@ -18,6 +18,7 @@ public class TeamProject {
         // TODO code application logic here
         System.out.println("This is my check in test for github");
         System.out.println("Save Change .");
+        System.out.println("New ");
     }
     
 }
